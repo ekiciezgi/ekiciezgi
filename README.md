@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Ezgi</h1>
-<h3 align="center">A passionate junior Software || Frontend Engineer from Turkey!</h3>
+<h3 align="center">A passionate junior Software || Computer Engineer from Turkey!</h3>
 - 🌱I like to use React **
 
 - 💬 Ask me about **React**
